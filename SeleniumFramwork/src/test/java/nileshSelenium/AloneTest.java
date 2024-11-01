@@ -36,7 +36,7 @@ public class AloneTest {
 		String productName="IPHONE 13 PRO";
 		String gender="Male";
 		String passWord="Nileshk_54";
-		
+		String branch="branch";
 		/*driver.findElement(By.cssSelector("div[class*='login-wrapper'] p")).click();
 		driver.findElement(By.id("firstName")).sendKeys(Firstname);
 		driver.findElement(By.id("lastName")).sendKeys(Lastname);
