@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-31T13:59:49 IST" name="Suite" finished-at="2024-10-31T13:59:58 IST" duration-ms="9874">
+    <groups>
+    </groups>
+    <test started-at="2024-10-31T13:59:49 IST" name="Test" finished-at="2024-10-31T13:59:58 IST" duration-ms="9874">
+      <class name="nileshSelenium.AloneTestModifiedDataJsonFile">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:nileshSelenium.AloneTestModifiedDataJsonFile@323b36e0]" started-at="2024-10-31T13:59:49 IST" name="launchApplication" finished-at="2024-10-31T13:59:51 IST" duration-ms="1987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderZaraCoat(java.util.HashMap)[pri:0, instance:nileshSelenium.AloneTestModifiedDataJsonFile@323b36e0]" started-at="2024-10-31T13:59:51 IST" name="orderZaraCoat" data-provider="getData" finished-at="2024-10-31T13:59:54 IST" duration-ms="3400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{pass=Nileshk_54, email=neel7020632@gmail.com, productName=IPHONE 13 PRO}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderZaraCoat -->
+        <test-method is-config="true" signature="close()[pri:0, instance:nileshSelenium.AloneTestModifiedDataJsonFile@323b36e0]" started-at="2024-10-31T13:59:54 IST" name="close" finished-at="2024-10-31T13:59:54 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:nileshSelenium.AloneTestModifiedDataJsonFile@323b36e0]" started-at="2024-10-31T13:59:54 IST" name="launchApplication" finished-at="2024-10-31T13:59:55 IST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderZaraCoat(java.util.HashMap)[pri:0, instance:nileshSelenium.AloneTestModifiedDataJsonFile@323b36e0]" started-at="2024-10-31T13:59:55 IST" name="orderZaraCoat" data-provider="getData" finished-at="2024-10-31T13:59:58 IST" duration-ms="3214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{pass=Iamking@000, email=anshika@gmail.com, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderZaraCoat -->
+        <test-method is-config="true" signature="close()[pri:0, instance:nileshSelenium.AloneTestModifiedDataJsonFile@323b36e0]" started-at="2024-10-31T13:59:58 IST" name="close" finished-at="2024-10-31T13:59:58 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- nileshSelenium.AloneTestModifiedDataJsonFile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
